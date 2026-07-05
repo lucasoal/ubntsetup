@@ -92,7 +92,7 @@
 | Documents         | Google Sans 11      |
 | Monospace         | Google Sans Code 12 |
 | 🌄 **Background**                       |
-| Catalina          | [Fuji_san_by_amaral.png](./src/backgrounds/Fuji_san_by_amaral.png)  |
+| Fuji          | [Fuji_san_by_amaral.png](./src/backgrounds/Fuji_san_by_amaral.png)  |
 | 🧩 **Extensions**                       |
 | Gnome | [Alphabetical App Grid](https://extensions.gnome.org/extension/4269/alphabetical-app-grid), [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell), [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock), [Tactile](https://extensions.gnome.org/extension/4548/tactile), [Desktop Icons NG (DING)](https://extensions.gnome.org/extension/2087/desktop-icons-ng-ding), [Ubuntu AppIndicators](https://extensions.gnome.org/extension/1301/ubuntu-appindicators), [Ubuntu Tiling ](https://extensions.gnome.org/extension/3733/tiling-assistant)
 
